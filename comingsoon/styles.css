@@ -1,9 +1,4 @@
-@font-face {
-    font-family: 'Open Sauce One';
-    src: url('../fonts/open-sauce.one-bold.ttf') format('truetype');
-    font-weight: bold;
-    font-style: normal;
-}
+/* Removed custom font-face due to missing font file */
 
 * {
     margin: 0;
